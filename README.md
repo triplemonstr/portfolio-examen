@@ -1,10 +1,11 @@
-# Nom du Projet
+# gestion de note de frais 
 
-Description brève du projet.
+command linux:
 
-## Installation
 
-Expliquez comment installer le projet.
 
-```bash
-npm install
+commande os:
+
+
+
+commande réseaux :
